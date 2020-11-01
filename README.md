@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Juan 👋
 
-<!--
-**Juanflu/juanflu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with more than 7 years of experience in Microsoft technologies and other stuff. I currently work as a Senior IT Consultant at ERNI.
 
-Here are some ideas to get you started:
+<img src="https://github.com/juanflu/juanflu/blob/master/illustration.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 I’m currently working from home _(LCG)_.
+- 🤓 I love to learn new things. Currently, I'm with Angular and Docker.
+- 📫 How to reach me: jfseoane@gmail.com or Twitter [@juanflu](twitter.com/juanflu)
+- 🎸 I love music like the most. 
+
+### 🛠 Technologies
+- .NET Core, .NET Framework, Entity Framework
+- SQL Server, MongoDB, DB2
+- Javascript, Angular
+
+### 💬 Languages
+- Spanish: it's my native language
+- English: I use it everyday, calls, mails, formal communications...
+- Italian: can handle an informal conversation
