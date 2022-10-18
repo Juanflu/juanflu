@@ -1,9 +1,9 @@
 ## Hi, I'm Juan 👋
 
-I'm a software developer with more than 7 years of experience in Microsoft technologies and other stuff. I currently work as a Senior IT Consultant at ERNI.
+I'm a software developer with more than 8 years of experience in Microsoft technologies and other stuff. I currently work as a Senior IT Consultant at ERNI.
 
-- 🏠 I’m currently working from home _(LCG)_.
-- 🤓 I love to learn new things. Currently, I'm with Angular and Docker.
+- 🏠 I’m currently working from Barcelona.
+- 🤓 I love to try and learn new things. Currently, working as Scrum Master and supporting a Dev Team.
 - 📫 How to reach me: jfseoane@gmail.com or Twitter [@juanflu](twitter.com/juanflu)
 - 🎸 I love music like the most. 
 
@@ -11,7 +11,7 @@ I'm a software developer with more than 7 years of experience in Microsoft techn
 
 ### 🛠 Technologies
 - .NET Core, .NET Framework, Entity Framework
-- SQL Server, MongoDB, DB2
+- SQL Server, MongoDB, DB2, Docker
 - Javascript, Angular
 
 ### 💬 Languages
